@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: VirtualPet
+Bundle-SymbolicName: VirtualPet
+Bundle-Version: 1.0.0.qualifier
+Export-Package: .,
+ actors,
+ textures
